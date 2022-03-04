@@ -7,4 +7,4 @@ of Transformer encoder architecture, which belongs to the BERT family, consideri
 pre-trained model and feature extraction to obtain contextual word embedding. All my trials were done to solve the FNC-1 challenge and led
 me to improve the SOTA results reported in the challenge website.
 
-The full documentation can be found [here](Report.pdf)
+The full documentation can be found [here](Report.pdf).
